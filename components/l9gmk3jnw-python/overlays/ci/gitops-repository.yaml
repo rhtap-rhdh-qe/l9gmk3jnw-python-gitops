@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l9gmk3jnw-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l9gmk3jnw-python-gitops
